@@ -1,0 +1,1 @@
+# active-mq-inmemory-1.0
